@@ -8,7 +8,7 @@ public class RomanToInteger {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String s =  "III"; 	
+		String s =  "MCMXCIV"; 	
 		System.out.print(RomanToInteger(s));
 	}
 	
